@@ -1,4 +1,4 @@
-# Neon windopwsShell
+# Neon windowsShell
 
 A custom Windows Shell replacement with a bold neon-glow aesthetic. Built with WinUI 3 and Windows App SDK.
 
